@@ -4,6 +4,9 @@
     box-sizing: border-box ; 
     font-family: 'Poppins', sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 #banner{
     background: linear-gradient( rgba(0,0,0,0.5),#009688),url(Barber_Shop_img/banner.jpg);
